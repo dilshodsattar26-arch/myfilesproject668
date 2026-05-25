@@ -1,0 +1,8 @@
+{
+    "name": "cloudroute-service",
+    "version": "1.0.668",
+    "private": false,
+    "environment": "production",
+    "build_id": 593,
+    "allow_public_access": true
+}
